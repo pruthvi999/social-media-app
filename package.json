@@ -1,0 +1,25 @@
+{
+  "name": "social-media-app",
+  "version": "1.0.0",
+  "description": "Cutshort backend assignment",
+  "main": "server.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pruthvi999/social-media-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pruthvi999/social-media-app/issues"
+  },
+  "homepage": "https://github.com/pruthvi999/social-media-app#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.0.0"
+  }
+}
